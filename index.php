@@ -78,7 +78,7 @@ body {
 <a href="./index.php"><img src=logo.png class=logo /></a>
 </div>
 
-<form action=index2.php method=get>
+<form action=index.php method=get>
 <div class=codediv>
 <input type=text name=u class=code id=code>
 </div>
